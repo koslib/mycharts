@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  servicetpl:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2020-07-24T00:27:33.260132+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 94c7616416d833747cb585dc5176972a0f8a26af4dbb0a05a9651f85e6b7f7ff
+    name: servicetpl
+    type: application
+    urls:
+    - servicetpl-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-24T00:27:33.255387+03:00"
