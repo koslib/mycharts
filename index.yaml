@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   servicetpl:
   - apiVersion: v2
-    created: "2021-08-07T20:32:57.391582+03:00"
+    created: "2021-08-07T20:41:55.913118+03:00"
+    description: A Helm chart for services running on Kubernetes
+    digest: ecd9d1920af8fc66ebf9fa9b936efe0a9853042dd0989dcfb0763e2148c1906d
+    name: servicetpl
+    urls:
+    - servicetpl-0.11.1.tgz
+    version: 0.11.1
+  - apiVersion: v2
+    created: "2021-08-07T20:41:55.912355+03:00"
     description: A Helm chart for services running on Kubernetes
     digest: 63d15ec201527efc8fbf36d33e19f879e0e12478e6711d578f9ffa33b0cdaabc
     name: servicetpl
@@ -10,11 +18,11 @@ entries:
     - servicetpl-0.11.0.tgz
     version: 0.11.0
   - apiVersion: v2
-    created: "2021-08-07T20:32:57.390374+03:00"
+    created: "2021-08-07T20:41:55.910907+03:00"
     description: A Helm chart for services running on Kubernetes
     digest: 257a44c11d999222fdab8edd3db0392066b7814ce6f5bd151f54d8f9a8aca487
     name: servicetpl
     urls:
     - servicetpl-0.10.0.tgz
     version: 0.10.0
-generated: "2021-08-07T20:32:57.389001+03:00"
+generated: "2021-08-07T20:41:55.907926+03:00"
