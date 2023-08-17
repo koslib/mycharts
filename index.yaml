@@ -2,7 +2,15 @@ apiVersion: v1
 entries:
   servicetpl:
   - apiVersion: v2
-    created: "2023-08-17T13:19:08.038214+03:00"
+    created: "2023-08-17T16:35:32.407665+03:00"
+    description: A Helm chart for services running on Kubernetes
+    digest: b608c7a7e4ab76c2a98d24479729c7a5e70ae14749d0a6cd29c38c7d91e501a2
+    name: servicetpl
+    urls:
+    - servicetpl-0.16.1.tgz
+    version: 0.16.1
+  - apiVersion: v2
+    created: "2023-08-17T16:35:32.407186+03:00"
     description: A Helm chart for services running on Kubernetes
     digest: d25ac7b2bf8ddc1ce47ccea3348506d3628ccba652a87bdf851289f70dd3f26f
     name: servicetpl
@@ -10,7 +18,7 @@ entries:
     - servicetpl-0.16.0.tgz
     version: 0.16.0
   - apiVersion: v2
-    created: "2023-08-17T13:19:08.0379+03:00"
+    created: "2023-08-17T16:35:32.406719+03:00"
     description: A Helm chart for services running on Kubernetes
     digest: 8b41d60595f29d53c30111aee1ee85d34b516d1a22b5e347a09c6aa01d4ddd1c
     name: servicetpl
@@ -18,7 +26,7 @@ entries:
     - servicetpl-0.15.1.tgz
     version: 0.15.1
   - apiVersion: v2
-    created: "2023-08-17T13:19:08.037438+03:00"
+    created: "2023-08-17T16:35:32.406052+03:00"
     description: A Helm chart for services running on Kubernetes
     digest: 683cf746132f919809eb6d58718fe33a9ab047d6780d18c81c03402847d4076d
     name: servicetpl
@@ -26,7 +34,7 @@ entries:
     - servicetpl-0.15.0.tgz
     version: 0.15.0
   - apiVersion: v2
-    created: "2023-08-17T13:19:08.036922+03:00"
+    created: "2023-08-17T16:35:32.405421+03:00"
     description: A Helm chart for services running on Kubernetes
     digest: e4b6cb6a388ee298c7679a01b1d8580b2b2cad36f5e36c585d949de0c937035d
     name: servicetpl
@@ -34,11 +42,11 @@ entries:
     - servicetpl-0.14.0.tgz
     version: 0.14.0
   - apiVersion: v2
-    created: "2023-08-17T13:19:08.03639+03:00"
+    created: "2023-08-17T16:35:32.404923+03:00"
     description: A Helm chart for services running on Kubernetes
     digest: 598fa030c4f3fb8efb7215b7bb5359465e5602bd82ff8359598c0153cfac7a9d
     name: servicetpl
     urls:
     - servicetpl-0.13.0.tgz
     version: 0.13.0
-generated: "2023-08-17T13:19:08.035168+03:00"
+generated: "2023-08-17T16:35:32.403717+03:00"
